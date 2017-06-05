@@ -9,7 +9,7 @@
  *
  * @link https://codex.wordpress.org/Template_Hierarchy
  *
- * @package _s
+ * @package Hello_World
  */
 
 get_header(); ?>
